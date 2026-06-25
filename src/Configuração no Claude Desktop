@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "binary-ai-signals": {
+      "command": "npm",
+      "args": ["run", "dev"],
+      "cwd": "/caminho/para/binary-ai-signals-mcp"
+    }
+  }
+}
