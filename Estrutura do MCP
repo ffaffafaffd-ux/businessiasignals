@@ -1,0 +1,5 @@
+binary-ai-signals-mcp/
+├─ package.json
+├─ tsconfig.json
+└─ src/
+   └─ server.ts
