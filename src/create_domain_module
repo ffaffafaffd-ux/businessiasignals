@@ -1,0 +1,5 @@
+{
+  "rootDir": "/caminho/para/binary-ai-signals",
+  "domain": "reports",
+  "force": false
+}
